@@ -24,7 +24,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": " No prefix 🦆💨 ",
-  "prefix": "'",
+  "prefix": "!",
   "database": {
     "type": "sqilite",
     "uriMongodb": "mongodb+srv://Easirmahi:01200120mahi@anchestor.wmvrhcb.mongodb.net",
